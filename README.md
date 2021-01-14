@@ -1,3 +1,2 @@
-# dating app - dotnet-ng
-
-Building the app in dotnet core and angular as a practice project.
+# Dating App
+Building the app in dotnet core and angular - practice project.
