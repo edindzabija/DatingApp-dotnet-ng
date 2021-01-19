@@ -1,3 +1,4 @@
+using System;
 using API.Data;
 using API.Entities;
 using Microsoft.AspNetCore.Authorization;
@@ -30,7 +31,7 @@ namespace API.Controllers
 
 
         }
-        
+
         [HttpGet("server-error")]
         public ActionResult<string> GetServerError()
         {
